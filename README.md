@@ -8,7 +8,7 @@
 Make sure to install NumPy and OpenCV libraries in your virtual environment.
 
 
-via pip
+With pip
 ---
 ```
 pip install opencv-python
